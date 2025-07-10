@@ -1,5 +1,5 @@
 # The download cells will store the data in nested directories starting here:
-import os, requests, tarfile
+import os
 
 
 HCP_DIR = "./hcp"
